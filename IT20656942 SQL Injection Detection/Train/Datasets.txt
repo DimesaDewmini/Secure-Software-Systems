@@ -1,0 +1,15 @@
+Datasets:
+https://raw.githubusercontent.com/foospidy/payloads/7749dd0bfcc64786feb22f578b978d2f8607e353/owasp/fuzzing_code_database/sqli/sqli.txt
+https://raw.githubusercontent.com/foospidy/payloads/master/other/sqli/camoufl4g3.txt
+https://raw.githubusercontent.com/foospidy/payloads/master/other/sqli/libinjection-bypasses.txt
+https://raw.githubusercontent.com/foospidy/payloads/master/owasp/jbrofuzz/sqli.txt
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Fuzzing/SQLi/Generic-SQLi.txt
+https://raw.githubusercontent.com/tungpv98/Detect-Sql-Injection-by-Machine-Learning/ebeb3287931677a3a42f11a7a08dbc13e374ff05/Sql-Injection/source/trainingdata/plain.txt
+https://raw.githubusercontent.com/SaqlainHussainShah/SQLi-Detection-using-Machine-Learning/master/benign_for_training.txt
+https://raw.githubusercontent.com/SaqlainHussainShah/SQLi-Detection-using-Machine-Learning/master/sqli_for_training.txt
+https://raw.githubusercontent.com/omurugur/SQL_Injection_Payload/master/SQL-Inj-Payload.txt
+https://www.kaggle.com/datasets/syedsaqlainhussain/sql-injection-dataset?resource=download&select=sqliv2.csv
+
+
+Github:
+https://github.com/SaqlainHussainShah/SQLi-Detection-using-Machine-Learning/blob/master/SQL%20injection%20detection%20CNN.ipynb

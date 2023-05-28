@@ -1,0 +1,9 @@
+README.md
+setup.py
+injectionfree/__init__.py
+injectionfree/injection.py
+injectionfree.egg-info/PKG-INFO
+injectionfree.egg-info/SOURCES.txt
+injectionfree.egg-info/dependency_links.txt
+injectionfree.egg-info/requires.txt
+injectionfree.egg-info/top_level.txt

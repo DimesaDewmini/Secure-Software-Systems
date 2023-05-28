@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: injectionfree
+Version: 0.1
+Summary: This will detect SQL injection attacks. and notify the user.
+Author: Dewmi
+Author-email: dewmi@gmail.com
